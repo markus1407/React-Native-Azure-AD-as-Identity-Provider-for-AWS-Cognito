@@ -10,3 +10,4 @@ This example has only been tested for android.
 npm install
 npx react-native run-android
 ```
+![alt example](example.gif)
