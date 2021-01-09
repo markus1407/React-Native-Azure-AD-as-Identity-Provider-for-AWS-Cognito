@@ -1,4 +1,4 @@
-# Example of an user authentificaiton with the hosted UI of AWS Cognito and an Azure AD IdP
+# Example of a user authenticaiton with the hosted UI of AWS Cognito and an Azure AD IdP
 This example should give an overview how you can implement an authentication function in react native. 
 The authentication should be done with AWS Cognito (without AWS Amplify) and an Azure AD identity provider (SAML2.0 and OpenID Connect).
 
