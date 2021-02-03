@@ -7,7 +7,8 @@ This example has only been tested for android.
 
 ## Runbook:
 1. You need to enter your personal information in AuthManger.js and build.gradle (appAuthRedirectScheme: '[Your callback URL - no uppercase letters allowed]')
-2. Run the following code
+2. Configure utils/AuthManager.js 
+3. Run the following code
 ```
 npm install
 npx react-native run-android
